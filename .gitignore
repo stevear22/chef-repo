@@ -1,4 +1,5 @@
 .autotest
+.chef
 coverage
 .DS_Store
 pkg/*
